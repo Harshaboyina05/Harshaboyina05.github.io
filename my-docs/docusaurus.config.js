@@ -6,8 +6,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
-  organizationName: 'coMakeIT-TIC',
-  projectName: 'coMakeIT-TIC.github.io',
+  organizationName: 'Harshaboyina05',
+  projectName: 'my-docusaurus-docs',
 
   themes: [
     // ... Your other themes.
