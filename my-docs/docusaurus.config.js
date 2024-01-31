@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Technology Innovation Center - CoMakeIT',
   tagline: 'Documentation for CoMakeIT TIC',
-  baseUrl: '/Docusaurus',
   url: 'https://Harshaboyina05.github.io',
+  baseUrl: '/my-docusaurus-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
