@@ -8,7 +8,7 @@ module.exports = {
   favicon: 'img/logo.png',
   organizationName: 'Harshaboyina05',
   projectName: 'my-docusaurus-docs',
-
+  
   themes: [
     // ... Your other themes.
     [
