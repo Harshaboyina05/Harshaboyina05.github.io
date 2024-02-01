@@ -20,10 +20,12 @@ jobs:
 
       - name: Install dependencies
         run: |
+          cd my-docs
           npm install
 
       - name: Build and deploy
         run: |
+          cd my-docs
           npm run build
           echo 'Harshaboyina05.github.io' > build/CNAME
           npx gh-pages -d build -b gh-pages -a
