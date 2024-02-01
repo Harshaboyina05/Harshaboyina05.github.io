@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/MindMap/Projectstructure",
+  "id": "Documentation/MindMap/Projectstructure",
+  "title": "Projectstructure",
+  "description": "The structure of the project folder depends on whether you have selected a deployment infrastructure or not. Let's explore both scenarios",
+  "source": "@site/docs/Documentation/MindMap/Projectstructure.md",
+  "sourceDirName": "Documentation/MindMap",
+  "slug": "/Documentation/MindMap/Projectstructure",
+  "permalink": "/my-docs/docs/Documentation/MindMap/Projectstructure",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "GlobalConfigurations",
+    "permalink": "/my-docs/docs/Documentation/MindMap/GlobalConfigurations"
+  },
+  "next": {
+    "title": "Prerequisites-WDI",
+    "permalink": "/my-docs/docs/Documentation/WDI/Prerequisites"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Documentation/WDA/WDA",
+  "id": "Documentation/WDA/WDA",
+  "title": "Description",
+  "description": "A well-defined architecture is a clear and documented framework that outlines the components and their interactions in a system.",
+  "source": "@site/docs/Documentation/WDA/WDA.md",
+  "sourceDirName": "Documentation/WDA",
+  "slug": "/Documentation/WDA/",
+  "permalink": "/my-docs/docs/Documentation/WDA/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Deployment",
+    "permalink": "/my-docs/docs/Documentation/WDA/Deployment"
+  }
+}

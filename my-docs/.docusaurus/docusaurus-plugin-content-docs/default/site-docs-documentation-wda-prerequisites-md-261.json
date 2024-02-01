@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/WDA/Prerequisites",
+  "id": "Documentation/WDA/Prerequisites",
+  "title": "Prerequisites-WDA",
+  "description": "\"Before you begin with WDA, there are certain prerequisites that must be met to ensure a successful outcome. These prerequisites are the necessary requirements and conditions that must be in place before proceeding with WDA.",
+  "source": "@site/docs/Documentation/WDA/Prerequisites.md",
+  "sourceDirName": "Documentation/WDA",
+  "slug": "/Documentation/WDA/Prerequisites",
+  "permalink": "/my-docs/docs/Documentation/WDA/Prerequisites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Description",
+    "permalink": "/my-docs/docs/Documentation/WDI/"
+  },
+  "next": {
+    "title": "Application",
+    "permalink": "/my-docs/docs/Documentation/WDA/Application"
+  }
+}

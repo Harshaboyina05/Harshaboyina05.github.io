@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/WDA/Deployment",
+  "id": "Documentation/WDA/Deployment",
+  "title": "Deployment",
+  "description": "Deployment information is about how you would like to deploy your application.",
+  "source": "@site/docs/Documentation/WDA/Deployment.md",
+  "sourceDirName": "Documentation/WDA",
+  "slug": "/Documentation/WDA/Deployment",
+  "permalink": "/my-docs/docs/Documentation/WDA/Deployment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Communication",
+    "permalink": "/my-docs/docs/Documentation/WDA/Communication"
+  },
+  "next": {
+    "title": "Description",
+    "permalink": "/my-docs/docs/Documentation/WDA/"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Technology Innovation Center (TIC) at coMakeIT is a facility that enables exploration of new ideas, build technologies and solutions for its products and services. It helps the company to accelerate product development by laying down strong foundations through innovation. TIC primarily focuses on technology for the future, being ready to adapt to latest advancements in the software industry.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/my-docs/docs/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

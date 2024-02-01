@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/MindMap/ServiceNode",
+  "id": "Documentation/MindMap/ServiceNode",
+  "title": "ServiceNode",
+  "description": "When working with the Service Nodes in the Mind Map Designer, you can add multiple nodes to represent the microservices in your project. Here's an explanation of the fields that you see when double-click on a service node.",
+  "source": "@site/docs/Documentation/MindMap/ServiceNode.md",
+  "sourceDirName": "Documentation/MindMap",
+  "slug": "/Documentation/MindMap/ServiceNode",
+  "permalink": "/my-docs/docs/Documentation/MindMap/ServiceNode",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "UIandGateway",
+    "permalink": "/my-docs/docs/Documentation/MindMap/UIandGateway"
+  },
+  "next": {
+    "title": "GlobalConfigurations",
+    "permalink": "/my-docs/docs/Documentation/MindMap/GlobalConfigurations"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/my-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/my-docs/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "DevelopersGuide/Concept",
+              "path": "/my-docs/docs/DevelopersGuide/Concept",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "DevelopersGuide/MindMap/Getting Started",
+              "path": "/my-docs/docs/DevelopersGuide/MindMap/Getting Started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Documentation/concept",
+              "path": "/my-docs/docs/Documentation/concept",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/Localsetup",
+              "path": "/my-docs/docs/Documentation/Localsetup"
+            },
+            {
+              "id": "Documentation/MindMap/GlobalConfigurations",
+              "path": "/my-docs/docs/Documentation/MindMap/GlobalConfigurations",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/MindMap/Introduction",
+              "path": "/my-docs/docs/Documentation/MindMap/Introduction",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/MindMap/Prerequisites",
+              "path": "/my-docs/docs/Documentation/MindMap/Prerequisites",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/MindMap/Projectstructure",
+              "path": "/my-docs/docs/Documentation/MindMap/Projectstructure",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/MindMap/ServiceNode",
+              "path": "/my-docs/docs/Documentation/MindMap/ServiceNode",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/MindMap/UIandGateway",
+              "path": "/my-docs/docs/Documentation/MindMap/UIandGateway",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/WDA/Application",
+              "path": "/my-docs/docs/Documentation/WDA/Application",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/WDA/Communication",
+              "path": "/my-docs/docs/Documentation/WDA/Communication",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/WDA/Deployment",
+              "path": "/my-docs/docs/Documentation/WDA/Deployment",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/WDA/Prerequisites",
+              "path": "/my-docs/docs/Documentation/WDA/Prerequisites",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/WDA/WDA",
+              "path": "/my-docs/docs/Documentation/WDA/",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/WDI/Prerequisites",
+              "path": "/my-docs/docs/Documentation/WDI/Prerequisites",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "Documentation/WDI/WDI",
+              "path": "/my-docs/docs/Documentation/WDI/",
+              "sidebar": "documentationSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/my-docs/docs/"
+            },
+            {
+              "id": "intro",
+              "path": "/my-docs/docs/intro"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/my-docs/docs/DevelopersGuide/Concept",
+                "label": "DevelopersGuide/Concept"
+              }
+            },
+            "documentationSidebar": {
+              "link": {
+                "path": "/my-docs/docs/Documentation/concept",
+                "label": "Documentation/concept"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "Documentation/Localsetup",
+  "id": "Documentation/Localsetup",
+  "title": "Localsetup",
+  "description": "Follow the steps to setup WDA in your local machine",
+  "source": "@site/docs/Documentation/Localsetup.md",
+  "sourceDirName": "Documentation",
+  "slug": "/Documentation/Localsetup",
+  "permalink": "/my-docs/docs/Documentation/Localsetup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

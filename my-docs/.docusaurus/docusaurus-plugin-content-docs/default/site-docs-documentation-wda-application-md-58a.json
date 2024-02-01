@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/WDA/Application",
+  "id": "Documentation/WDA/Application",
+  "title": "Application",
+  "description": "To define your application in our system, we require specific information about your application's characteristics.",
+  "source": "@site/docs/Documentation/WDA/Application.md",
+  "sourceDirName": "Documentation/WDA",
+  "slug": "/Documentation/WDA/Application",
+  "permalink": "/my-docs/docs/Documentation/WDA/Application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Prerequisites-WDA",
+    "permalink": "/my-docs/docs/Documentation/WDA/Prerequisites"
+  },
+  "next": {
+    "title": "Communication",
+    "permalink": "/my-docs/docs/Documentation/WDA/Communication"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Documentation/concept",
+  "id": "Documentation/concept",
+  "title": "Architecture",
+  "description": "Well Defined Architecture",
+  "source": "@site/docs/Documentation/concept.md",
+  "sourceDirName": "Documentation",
+  "slug": "/Documentation/concept",
+  "permalink": "/my-docs/docs/Documentation/concept",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/my-docs/docs/Documentation/MindMap/Introduction"
+  }
+}

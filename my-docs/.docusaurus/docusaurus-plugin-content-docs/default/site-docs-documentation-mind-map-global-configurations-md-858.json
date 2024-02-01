@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/MindMap/GlobalConfigurations",
+  "id": "Documentation/MindMap/GlobalConfigurations",
+  "title": "GlobalConfigurations",
+  "description": "When using the Mind Map Designer, you'll find different categories of draggable nodes in the sidebar. Each category represents a specific component or functionality that you can add to your Mind Map. Here's an overview of the different draggable nodes available",
+  "source": "@site/docs/Documentation/MindMap/GlobalConfigurations.md",
+  "sourceDirName": "Documentation/MindMap",
+  "slug": "/Documentation/MindMap/GlobalConfigurations",
+  "permalink": "/my-docs/docs/Documentation/MindMap/GlobalConfigurations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "ServiceNode",
+    "permalink": "/my-docs/docs/Documentation/MindMap/ServiceNode"
+  },
+  "next": {
+    "title": "Projectstructure",
+    "permalink": "/my-docs/docs/Documentation/MindMap/Projectstructure"
+  }
+}

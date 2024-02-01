@@ -1,0 +1,68 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# npm package files
+npm-debug.log
+*.npm
+
+# Testing
+coverage/
+
+# Visual Studio Code directory
+.vscode/
+
+# Next.js
+.next/
+out/
+
+# Nuxt.js
+.nuxt/
+dist/
+
+# Serverless directories
+.serverless/
+
+# Webpack
+node_modules/.cache/
+dist/
+.cache/

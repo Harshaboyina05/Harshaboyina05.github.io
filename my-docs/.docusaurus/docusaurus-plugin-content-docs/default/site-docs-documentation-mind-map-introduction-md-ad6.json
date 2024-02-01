@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/MindMap/Introduction",
+  "id": "Documentation/MindMap/Introduction",
+  "title": "Introduction",
+  "description": "The Mind Map Designer is an innovative tool designed to simplify the process of visualizing and planning your project architecture. With its intuitive interface, you can easily drag and drop nodes representing different components onto your Mind Map, creating a comprehensive overview of your project structure.",
+  "source": "@site/docs/Documentation/MindMap/Introduction.md",
+  "sourceDirName": "Documentation/MindMap",
+  "slug": "/Documentation/MindMap/Introduction",
+  "permalink": "/my-docs/docs/Documentation/MindMap/Introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/my-docs/docs/Documentation/concept"
+  },
+  "next": {
+    "title": "Prerequisites",
+    "permalink": "/my-docs/docs/Documentation/MindMap/Prerequisites"
+  }
+}

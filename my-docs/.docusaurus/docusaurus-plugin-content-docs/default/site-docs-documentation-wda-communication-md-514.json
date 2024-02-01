@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/WDA/Communication",
+  "id": "Documentation/WDA/Communication",
+  "title": "Communication",
+  "description": "Communication tab requires information, which would specify which client and server would communicate with each other. For better understanding here is an example:",
+  "source": "@site/docs/Documentation/WDA/Communication.md",
+  "sourceDirName": "Documentation/WDA",
+  "slug": "/Documentation/WDA/Communication",
+  "permalink": "/my-docs/docs/Documentation/WDA/Communication",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Application",
+    "permalink": "/my-docs/docs/Documentation/WDA/Application"
+  },
+  "next": {
+    "title": "Deployment",
+    "permalink": "/my-docs/docs/Documentation/WDA/Deployment"
+  }
+}

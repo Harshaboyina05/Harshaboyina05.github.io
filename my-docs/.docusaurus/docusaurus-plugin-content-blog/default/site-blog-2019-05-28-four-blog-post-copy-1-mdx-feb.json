@@ -1,0 +1,44 @@
+{
+  "permalink": "/my-docs/blog/mdx-blog-post",
+  "source": "@site/blog/2019-05-28-four-blog-post - Copy (1).mdx",
+  "title": "MDX Blog Post",
+  "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+  "date": "2019-05-28T00:00:00.000Z",
+  "formattedDate": "May 28, 2019",
+  "tags": [
+    {
+      "label": "docusaurus",
+      "permalink": "/my-docs/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 0.175,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Lokesh",
+      "title": "testing-",
+      "url": "https://github.com/lokesh-cmi",
+      "imageURL": "https://avatars.githubusercontent.com/u/110808581?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mdx-blog-post",
+    "title": "MDX Blog Post",
+    "author": "Lokesh",
+    "author_title": "testing-",
+    "author_url": "https://github.com/lokesh-cmi",
+    "author_image_url": "https://avatars.githubusercontent.com/u/110808581?v=4",
+    "tags": [
+      "docusaurus"
+    ],
+    "image": "img/docusaurus-plushie-banner.jpeg"
+  },
+  "prevItem": {
+    "title": "Long Blog Post",
+    "permalink": "/my-docs/blog/long-blog-post"
+  },
+  "nextItem": {
+    "title": "sample blog three",
+    "permalink": "/my-docs/blog/three-blog-post"
+  }
+}

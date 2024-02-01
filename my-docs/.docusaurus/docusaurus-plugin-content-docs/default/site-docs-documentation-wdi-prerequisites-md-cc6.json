@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/WDI/Prerequisites",
+  "id": "Documentation/WDI/Prerequisites",
+  "title": "Prerequisites-WDI",
+  "description": "Before getting started with WDI, there are some prerequisites to ensure the correct outcome:",
+  "source": "@site/docs/Documentation/WDI/Prerequisites.md",
+  "sourceDirName": "Documentation/WDI",
+  "slug": "/Documentation/WDI/Prerequisites",
+  "permalink": "/my-docs/docs/Documentation/WDI/Prerequisites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Projectstructure",
+    "permalink": "/my-docs/docs/Documentation/MindMap/Projectstructure"
+  },
+  "next": {
+    "title": "Description",
+    "permalink": "/my-docs/docs/Documentation/WDI/"
+  }
+}

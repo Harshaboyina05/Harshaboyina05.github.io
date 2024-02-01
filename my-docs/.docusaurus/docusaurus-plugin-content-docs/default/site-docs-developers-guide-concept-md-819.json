@@ -1,0 +1,19 @@
+{
+  "unversionedId": "DevelopersGuide/Concept",
+  "id": "DevelopersGuide/Concept",
+  "title": "Basic Concepts",
+  "description": "CanvasToCode allows you to build a Well-Defined Architecture and Infrastructure using the information provided.",
+  "source": "@site/docs/DevelopersGuide/Concept.md",
+  "sourceDirName": "DevelopersGuide",
+  "slug": "/DevelopersGuide/Concept",
+  "permalink": "/my-docs/docs/DevelopersGuide/Concept",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/my-docs/docs/DevelopersGuide/MindMap/Getting Started"
+  }
+}

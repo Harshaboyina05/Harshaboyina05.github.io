@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/WDI/WDI",
+  "id": "Documentation/WDI/WDI",
+  "title": "Description",
+  "description": "To define the Infrastructure for your project, we require some details that will help us create a Well Defined Infrastructure (WDI). The information needed includes the project name, your domain name, your preferred cloud provider, your preferred orchestration provider, cluster name, Kubernetes namespace, monitoring and the ingress type.",
+  "source": "@site/docs/Documentation/WDI/WDI.md",
+  "sourceDirName": "Documentation/WDI",
+  "slug": "/Documentation/WDI/",
+  "permalink": "/my-docs/docs/Documentation/WDI/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Prerequisites-WDI",
+    "permalink": "/my-docs/docs/Documentation/WDI/Prerequisites"
+  },
+  "next": {
+    "title": "Prerequisites-WDA",
+    "permalink": "/my-docs/docs/Documentation/WDA/Prerequisites"
+  }
+}

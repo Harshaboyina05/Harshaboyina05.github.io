@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/MindMap/UIandGateway",
+  "id": "Documentation/MindMap/UIandGateway",
+  "title": "UIandGateway",
+  "description": "The UI+Gateway node in the Mind Map Designer represents the frontend and gateway of your project. It serves as the entry point for user interaction and handles the communication between the user interface and the backend services. By double-clicking on the UI+Gateway node, you can open a modal that allows you to provide specific information about this node.",
+  "source": "@site/docs/Documentation/MindMap/UIandGateway.md",
+  "sourceDirName": "Documentation/MindMap",
+  "slug": "/Documentation/MindMap/UIandGateway",
+  "permalink": "/my-docs/docs/Documentation/MindMap/UIandGateway",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/my-docs/docs/Documentation/MindMap/Prerequisites"
+  },
+  "next": {
+    "title": "ServiceNode",
+    "permalink": "/my-docs/docs/Documentation/MindMap/ServiceNode"
+  }
+}

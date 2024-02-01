@@ -1,0 +1,19 @@
+{
+  "unversionedId": "DevelopersGuide/MindMap/Getting Started",
+  "id": "DevelopersGuide/MindMap/Getting Started",
+  "title": "Getting Started",
+  "description": "Welcome to the CanvasToCode! It's a powerful tool for planning your project architecture by visualizing the components of your application using draggable nodes and connecting edges. Follow these steps to effectively use the CanvasToCode:",
+  "source": "@site/docs/DevelopersGuide/MindMap/Getting Started.md",
+  "sourceDirName": "DevelopersGuide/MindMap",
+  "slug": "/DevelopersGuide/MindMap/Getting Started",
+  "permalink": "/my-docs/docs/DevelopersGuide/MindMap/Getting Started",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Concepts",
+    "permalink": "/my-docs/docs/DevelopersGuide/Concept"
+  }
+}

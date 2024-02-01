@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Documentation/MindMap/Prerequisites",
+  "id": "Documentation/MindMap/Prerequisites",
+  "title": "Prerequisites",
+  "description": "These are the necessary requirements and conditions that must be in place before proceeding with WDA.",
+  "source": "@site/docs/Documentation/MindMap/Prerequisites.md",
+  "sourceDirName": "Documentation/MindMap",
+  "slug": "/Documentation/MindMap/Prerequisites",
+  "permalink": "/my-docs/docs/Documentation/MindMap/Prerequisites",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "documentationSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/my-docs/docs/Documentation/MindMap/Introduction"
+  },
+  "next": {
+    "title": "UIandGateway",
+    "permalink": "/my-docs/docs/Documentation/MindMap/UIandGateway"
+  }
+}
